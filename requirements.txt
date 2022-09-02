@@ -1,4 +1,4 @@
-gto==0.1.12
+gto==0.2.1
 mlem==0.2.5
 sklearn
 pandas
